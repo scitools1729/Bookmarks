@@ -4,3 +4,4 @@
 - **Awesome Remote Sensing Foundation Models** A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs) (https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models?tab=readme-ov-file#remote-sensing-agents)
 - **Manipulating Multimodal Agents via Cross-Modal Prompt Injection** (https://arxiv.org/pdf/2504.14348)
 - **AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models** (https://arxiv.org/pdf/2505.14103)
+- **OmniSafeBench-MM: A Unified Benchmark and Toolbox for Multimodal Jailbreak Attack–Defense Evaluation** (https://github.com/jiaxiaojunQAQ/OmniSafeBench-MM)
