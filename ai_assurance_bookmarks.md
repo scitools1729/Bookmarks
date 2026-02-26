@@ -5,3 +5,7 @@
 - **Manipulating Multimodal Agents via Cross-Modal Prompt Injection** (https://arxiv.org/pdf/2504.14348)
 - **AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models** (https://arxiv.org/pdf/2505.14103)
 - **OmniSafeBench-MM: A Unified Benchmark and Toolbox for Multimodal Jailbreak Attack–Defense Evaluation** (https://github.com/jiaxiaojunQAQ/OmniSafeBench-MM)
+- **Redcode**: Risky Code Execution and Generation Benchmark for Code Agents(https://arxiv.org/pdf/2411.07781)
+    - https://github.com/AI-secure/RedCode?tab=readme-ov-file
+- Red-Teaming Coding Agents from a Tool-Invocation Perspective: An Empirical Security Assessment (https://arxiv.org/html/2509.05755v5)
+- Web LLM Attacks (https://github.com/Ak-cybe/web-llm-attacks)
